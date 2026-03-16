@@ -1,3 +1,4 @@
+// a small C++ program
 #include <iostream>
 
 int main() {
